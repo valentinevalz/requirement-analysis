@@ -71,7 +71,7 @@ Use Case Diagrams visually represent how users (actors) interact with the system
 - Helps define system scope
 - Enhances communication between stakeholders and developers
 
-![Booking System Use Case Diagram]  (alx-booking-uc.png)![image](https://github.com/user-attachments/assets/1828bc0d-584c-483d-83ed-b614b16dbdc9)
+![Booking System Use Case Diagram]  (alx-booking-uc.png) ![(alx-booking-uc.png)](https://github.com/user-attachments/assets/1828bc0d-584c-483d-83ed-b614b16dbdc9)
 
 
 ---
